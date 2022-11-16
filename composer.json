@@ -21,10 +21,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Notix\\Gcaptcha\\CaptchaServiceProvider"
+                "Notix\\GCaptcha\\CaptchaServiceProvider"
             ],
             "aliases": {
-                "Captcha": "Notix\\Gcaptcha\\CaptchaFacade"
+                "Captcha": "Notix\\GCaptcha\\CaptchaFacade"
             }
         }
     }
