@@ -3,7 +3,7 @@
     "description": "NOTIX - Google ReCaptcha for laravel",
     "autoload": {
         "psr-4": {
-            "NOTIX\\GCaptcha\\": "src"
+            "Notix\\GCaptcha\\": "src"
         }
     },
     "license": "MIT",
@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NOTIX\\GCaptcha\\CaptchaServiceProvider"
+                "Notix\\GCaptcha\\CaptchaServiceProvider"
             ],
             "aliases": {
-                "Captcha": "NOTIX\\GCaptcha\\CaptchaFacade"
+                "Captcha": "Notix\\GCaptcha\\CaptchaFacade"
             }
         }
     }
