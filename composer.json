@@ -1,0 +1,31 @@
+{
+    "name": "notix/gcaptcha",
+    "description": "NOTIX - Google ReCaptcha for laravel",
+    "autoload": {
+        "psr-4": {
+            "Notix\\Gcaptcha\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ourmine-Notix",
+            "email": "developer@notix.pro"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*|6.*|7.*|8.*|9.*",
+        "google/recaptcha": "1.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Notix\\Gcaptcha\\CaptchaProvider"
+            ],
+            "aliases": {
+                "Captcha": "Notix\\Gcaptcha\\CaptchaFacade"
+            }
+        }
+    }
+}
