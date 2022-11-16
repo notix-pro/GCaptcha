@@ -3,14 +3,15 @@
     "description": "NOTIX - Google ReCaptcha for laravel",
     "autoload": {
         "psr-4": {
-            "Notix\\Gcaptcha\\": "src"
+            "NOTIX\\GCaptcha\\": "src"
         }
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Ourmine-Notix",
-            "email": "developer@notix.pro"
+            "email": "developer@notix.pro",
+            "homepage": "https://notix.pro"
         }
     ],
     "require": {
