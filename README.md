@@ -22,6 +22,12 @@ CAPTCHA_SITEKEY=
 CAPTCHA_THEME=
 ```
 
+## Publish Config
+
+```php
+php artisan vendor:publish --provider="Notix\GCaptcha\CaptchaServiceProvider"
+```
+
 You can take the private key as well as the public key from this [link](https://www.google.com/recaptcha/admin))
 
 ## Usage
