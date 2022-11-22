@@ -2,9 +2,8 @@
 
 [![Latest Stable Version](http://poser.pugx.org/notix/gcaptcha/v)](https://packagist.org/packages/notix/gcaptcha)
 [![Total Downloads](http://poser.pugx.org/notix/gcaptcha/downloads)](https://packagist.org/packages/notix/gcaptcha)
-[![License](http://poser.pugx.org/notix/gcaptcha/license)](https://packagist.org/packages/notix/gcaptcha)
 [![Monthly Downloads](http://poser.pugx.org/notix/gcaptcha/d/monthly)](https://packagist.org/packages/notix/gcaptcha)
-[![Version](http://poser.pugx.org/notix/gcaptcha/version)](https://packagist.org/packages/notix/gcaptcha)
+[![License](http://poser.pugx.org/notix/gcaptcha/license)](https://packagist.org/packages/notix/gcaptcha)
 
 ## Instalation
 
