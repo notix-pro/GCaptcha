@@ -1,6 +1,13 @@
 {
     "name": "notix/gcaptcha",
     "description": "NOTIX - Google ReCaptcha for laravel",
+    "keywords": [
+        "recaptcha",
+        "laravel",
+        "google",
+        "google-recaptcha",
+        "laravel-recaptcha"
+    ],
     "autoload": {
         "psr-4": {
             "Notix\\GCaptcha\\": "src"
